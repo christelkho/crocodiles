@@ -1,0 +1,65 @@
+body {
+ background: #ebebeb;
+ color: #333;
+ font-family: "Noto Sans", sans-serif;
+ font-weight: 300;
+ font-size: 16px 
+}
+
+section, header {
+    width: 80%; 
+    max-width: 900px;
+    margin: auto;
+}
+
+section, header {
+    margin-bottom: 5rem;
+}
+
+header h1, h2, h3, blockquote {
+     font-family: "Noto Serif", serif;
+    
+}
+
+h1 {
+    font-size: 4.209rem;
+    line-height: 1;
+    color: #757943;
+}
+
+h2 {
+    font-size: 2.369rem;
+    font-style: italic; 
+    color: #757943;
+    margin-bottom: 4rem;
+}
+
+h3 {
+    color: #AE9618
+}
+
+p{
+    line-height: 1.6;
+}
+
+header p {
+    font-size: 1.333rem;
+    font-family: "Noto Serif", serif;
+    
+}
+
+h1, h2 {
+    line-height: 0.5;
+}
+
+blockquote, p {
+ padding: 1rem 0;
+}
+blockquote {
+    font-size: 1.333rem;
+    font-style: italic;
+    color: #757943;
+    hanging-punctuation: first;
+    text-indent: -0.4rem;
+}
+}
